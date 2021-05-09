@@ -15,4 +15,4 @@ PRIVATE_KEY=
 INFURA_API_KEY=
 ```
 
-4. Start swaping. See detail from my [blog](https://colorfullife.ml/pages/diary/erics-daily-life/eric60/)
+4. See detail from my [blog](https://colorfullife.ml/pages/diary/erics-daily-life/eric60/)
